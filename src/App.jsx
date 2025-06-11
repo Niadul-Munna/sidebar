@@ -1,10 +1,10 @@
-import Sidemenu from "./components/Sidemenu";
 import "./index.css";
 
+import SideMenu from "./components/SideMenu";
 function App() {
   return (
     <>
-      <Sidemenu />
+      <SideMenu />
     </>
   );
 }
