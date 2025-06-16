@@ -145,9 +145,9 @@ const SideMenu = () => {
               />
 
               <div className="text-xs ml-1">
-                Anna Taylor
+                Niadul Islam
                 <div className="text-xs text-slate-800 dark:text-white">
-                  anna@email.com
+                  niadulislammunna@gmail.com
                 </div>
               </div>
               <div className=" flex flex-auto justify-end text-xl text-slate-600 dark:text-white">
