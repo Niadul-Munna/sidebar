@@ -69,7 +69,7 @@ const SideMenu = () => {
               </span>
               <div className="ml-1">Work Load</div>
             </a>
-            <a className="flex flex-row items-cente ">
+            <a className="flex flex-row items-center ">
               <div className="text-slate-600 dark:text-white">
                 <IoChevronDownOutline />
               </div>
